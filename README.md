@@ -3,7 +3,7 @@
 Welcome to my profile! This README is updated **automatically** every day.
 
 ### 📈 Live Stats
-* **Total Public Repositories:** 4
-* **Total Earned Stars:** 3 ⭐
+* **Total Public Repositories:** 6
+* **Total Earned Stars:** 6 ⭐
 
-_Last updated automatically on: Thursday, June 11, 2026_
+_Last updated automatically on: Friday, June 12, 2026_
